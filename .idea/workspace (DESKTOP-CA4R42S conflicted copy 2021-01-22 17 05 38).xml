@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="703cd770-d6bd-4639-84b6-28094a7f86bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n1Ff6czhf6Un0tsZdh7s6UMhcN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Platformer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="platformer_project_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Karina\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Platformer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="elkfekfkelw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="platformer_project_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/elkfekfkelw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="level (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="platformer_project_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/level.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="level" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="platformer_project_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="O:\PYGAME_PROJECT\platformer_project_2\level.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="platformer_project_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="menu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="platformer_project_2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/menu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.menu" />
+        <item itemvalue="Python.level (1)" />
+        <item itemvalue="Python.elkfekfkelw" />
+        <item itemvalue="Python.Platformer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="703cd770-d6bd-4639-84b6-28094a7f86bf" name="Default Changelist" comment="" />
+      <created>1610549789376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610549789376</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1146" y="134" key="#Platformer" timestamp="1610789627160">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1146" y="134" key="#Platformer/0.0.1920.1040@0.0.1920.1040" timestamp="1610789627160" />
+    <state x="679" y="134" key="#Platformer_with_size" timestamp="1610799248172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="134" key="#Platformer_with_size/0.0.1920.1040@0.0.1920.1040" timestamp="1610799248172" />
+    <state x="671" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610814780620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1610626201454" />
+    <state x="671" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610814780620" />
+    <state x="669" y="115" key="#main" timestamp="1611237442076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="115" key="#main/0.0.1920.1040@0.0.1920.1040" timestamp="1611237442076" />
+    <state width="1899" height="152" key="GridCell.Tab.0.bottom" timestamp="1611324319706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1003" height="50" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1611052580531" />
+    <state width="1259" height="50" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611052629040" />
+    <state width="1174" height="274" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1611173832517" />
+    <state width="1255" height="274" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611173373930" />
+    <state width="1515" height="428" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610730782724" />
+    <state width="1899" height="152" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611324319706" />
+    <state width="779" height="318" key="GridCell.Tab.0.bottom/0.0.800.560@0.0.800.560" timestamp="1611062311532" />
+    <state width="1899" height="152" key="GridCell.Tab.0.center" timestamp="1611324319706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1003" height="50" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1611052580531" />
+    <state width="1259" height="50" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611052629039" />
+    <state width="1174" height="274" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1611173832517" />
+    <state width="1255" height="274" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611173373930" />
+    <state width="1515" height="428" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610730782723" />
+    <state width="1899" height="152" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611324319706" />
+    <state width="779" height="318" key="GridCell.Tab.0.center/0.0.800.560@0.0.800.560" timestamp="1611062311532" />
+    <state width="1899" height="152" key="GridCell.Tab.0.left" timestamp="1611324319706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1003" height="50" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1611052580531" />
+    <state width="1259" height="50" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611052629039" />
+    <state width="1174" height="274" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1611173832517" />
+    <state width="1255" height="274" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611173373930" />
+    <state width="1515" height="428" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610730782723" />
+    <state width="1899" height="152" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611324319706" />
+    <state width="779" height="318" key="GridCell.Tab.0.left/0.0.800.560@0.0.800.560" timestamp="1611062311532" />
+    <state width="1899" height="152" key="GridCell.Tab.0.right" timestamp="1611324319706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1003" height="50" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1611052580531" />
+    <state width="1259" height="50" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611052629039" />
+    <state width="1174" height="274" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1611173832517" />
+    <state width="1255" height="274" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611173373930" />
+    <state width="1515" height="428" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610730782723" />
+    <state width="1899" height="152" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611324319706" />
+    <state width="779" height="318" key="GridCell.Tab.0.right/0.0.800.560@0.0.800.560" timestamp="1611062311532" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1610883967630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="97" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610568456052" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610883967630" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1610883967630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="97" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610568456052" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610883967630" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1610883967630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="97" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610568456052" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610883967630" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1610883967630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="97" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610568456052" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610883967630" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1610799410509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610799410509" />
+    <state x="1123" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1610887459694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1123" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610887459694" />
+  </component>
+</project>
